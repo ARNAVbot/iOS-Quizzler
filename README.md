@@ -1,5 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Quizzler
 
@@ -57,7 +56,4 @@ You will program a trivia quiz app. If you have another field of expertise such 
         Question(q: "Where is Tasmania located?", a: ["Indonesia", "Australia", "Scotland"], correctAnswer: "Australia")
 ```        
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+### To refer to the vidoes , go here -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16252906#overview ( Videos 95-108)
